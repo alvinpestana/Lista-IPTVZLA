@@ -1,0 +1,207 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MX - Animal Planet" tvg-name="Animal Planet SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/animalp.png" group-title="Latinos Dual Audio (E)",Animal Planet SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35194.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="Animal Planet FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/animalp.png" group-title="Latinos Dual Audio (E)",Animal Planet FHD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35195.m3u8
+#EXTINF:-1 tvg-id="HISTORY HD" tvg-name="History Channel SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/history.png" group-title="Latinos Dual Audio (E)",History Channel SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35196.m3u8
+#EXTINF:-1 tvg-id="MX - History HD" tvg-name="History Channel FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/history.png" group-title="Latinos Dual Audio (E)",History Channel FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History 2  SD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/h2.png" group-title="Latinos Dual Audio (E)",History 2  SD (E)
+http://hidraplay.tv:80/live/APestana/123456/35198.m3u8
+#EXTINF:-1 tvg-id="HolaTv.co" tvg-name="Hola! TV FHD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/holatv.png" group-title="Latinos Dual Audio (E)",Hola! TV FHD (E)
+http://hidraplay.tv:80/live/APestana/123456/35199.m3u8
+#EXTINF:-1 tvg-id="MX - Glitz" tvg-name="Glitz SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/glitz.png" group-title="Latinos Dual Audio (E)",Glitz SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35200.m3u8
+#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! Entertainment FHD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/e.png" group-title="Latinos Dual Audio (E)",E! Entertainment FHD (E)
+http://hidraplay.tv:80/live/APestana/123456/35201.m3u8
+#EXTINF:-1 tvg-id="Canal Discovery Science (Latinoamérica)" tvg-name="Discovery Science SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/discoverys.png" group-title="Latinos Dual Audio (E)",Discovery Science SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35202.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD" tvg-name="Discovery Channel SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/discovery.png" group-title="Latinos Dual Audio (E)",Discovery Channel SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35203.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD" tvg-name="Discovery Channel FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/discovery.png" group-title="Latinos Dual Audio (E)",Discovery Channel FHD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35204.m3u8
+#EXTINF:-1 tvg-id="MX - Discovery Home & Health" tvg-name="Discovery H&H FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/discoveryhh.png" group-title="Latinos Dual Audio (E)",Discovery H&H FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater FHD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/theater.png" group-title="Latinos Dual Audio (E)",Discovery Theater FHD (E)
+http://hidraplay.tv:80/live/APestana/123456/35206.m3u8
+#EXTINF:-1 tvg-id="MX - Discovery World HD" tvg-name="Discovery World FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/world.png" group-title="Latinos Dual Audio (E)",Discovery World FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35207.m3u8
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY HD" tvg-name="Investigation Discovery SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/id.png" group-title="Latinos Dual Audio (E)",Investigation Discovery SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery  FHD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/id.png" group-title="Latinos Dual Audio (E)",Investigation Discovery  FHD (E)
+http://hidraplay.tv:80/live/APestana/123456/35209.m3u8
+#EXTINF:-1 tvg-id="NATGEO HD" tvg-name="National Geographic SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/natgeo.png" group-title="Latinos Dual Audio (E)",National Geographic SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35210.m3u8
+#EXTINF:-1 tvg-id="NATGEO HD" tvg-name="National Geographic FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/natgeo.png" group-title="Latinos Dual Audio (E)",National Geographic FHD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35211.m3u8
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="Nat Geo Wild SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/natgeowild.png" group-title="Latinos Dual Audio (E)",Nat Geo Wild SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35212.m3u8
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="Nat Geo Wild FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/natgeowild.png" group-title="Latinos Dual Audio (E)",Nat Geo Wild FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35213.m3u8
+#EXTINF:-1 tvg-id="NAT GEO KIDS" tvg-name="Nat Geo Kids SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/natkids.png" group-title="Latinos Dual Audio (E)",Nat Geo Kids SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV SD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/babytv.png" group-title="Latinos Dual Audio (E)",Baby TV SD (E)
+http://hidraplay.tv:80/live/APestana/123456/35216.m3u8
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast SD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/tooncast.png" group-title="Latinos Dual Audio (E)",Tooncast SD (E)
+http://hidraplay.tv:80/live/APestana/123456/35217.m3u8
+#EXTINF:-1 tvg-id="MX - Boomerang" tvg-name="Boomerang SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/boomerang.png" group-title="Latinos Dual Audio (E)",Boomerang SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35218.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY KIDS HD" tvg-name="Discovery Kids SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/dk.png" group-title="Latinos Dual Audio (E)",Discovery Kids SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35219.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY KIDS HD" tvg-name="Discovery Kids FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/dk.png" group-title="Latinos Dual Audio (E)",Discovery Kids FHD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/cn.png" group-title="Latinos Dual Audio (E)",Cartoon Network SD (E)
+http://hidraplay.tv:80/live/APestana/123456/35221.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon Network FHD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/cn.png" group-title="Latinos Dual Audio (E)",Cartoon Network FHD (E)
+http://hidraplay.tv:80/live/APestana/123456/35222.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="Nickelodeon SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/nick.png" group-title="Latinos Dual Audio (E)",Nickelodeon SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35223.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon FHD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/nick.png" group-title="Latinos Dual Audio (E)",Nickelodeon FHD (E)
+http://hidraplay.tv:80/live/APestana/123456/35224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 FHD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/nick2.png" group-title="Latinos Dual Audio (E)",Nick 2 FHD (E)
+http://hidraplay.tv:80/live/APestana/123456/35225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR SD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/nickjr.png" group-title="Latinos Dual Audio (E)",Nick JR SD (E)
+http://hidraplay.tv:80/live/APestana/123456/35226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel SD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/dc.png" group-title="Latinos Dual Audio (E)",Disney Channel SD (E)
+http://hidraplay.tv:80/live/APestana/123456/35227.m3u8
+#EXTINF:-1 tvg-id="MX - Disney Channel" tvg-name="Disney Channel FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/dc.png" group-title="Latinos Dual Audio (E)",Disney Channel FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35228.m3u8
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="Disney Junior SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/dj.png" group-title="Latinos Dual Audio (E)",Disney Junior SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35229.m3u8
+#EXTINF:-1 tvg-id="CO - Disney XD" tvg-name="Disney XD SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/xd.png" group-title="Latinos Dual Audio (E)",Disney XD SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35230.m3u8
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino SD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/cinelatino.png" group-title="Latinos Dual Audio (E)",Cine Latino SD (E)
+http://hidraplay.tv:80/live/APestana/123456/35231.m3u8
+#EXTINF:-1 tvg-id="CinemaDinamita.co" tvg-name="Cinema Dinamita SD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/cinedinamita.png" group-title="Latinos Dual Audio (E)",Cinema Dinamita SD (E)
+http://hidraplay.tv:80/live/APestana/123456/35232.m3u8
+#EXTINF:-1 tvg-id="COMEDY CENTRAL HD" tvg-name="Comedy Central HD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/comedycentral.png" group-title="Latinos Dual Audio (E)",Comedy Central HD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35233.m3u8
+#EXTINF:-1 tvg-id="MX - Cinecanal" tvg-name="Cinecanal SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/cinecanal.png" group-title="Latinos Dual Audio (E)",Cinecanal SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35234.m3u8
+#EXTINF:-1 tvg-id="CINECANAL HD" tvg-name="Cinecanal FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/cinecanal.png" group-title="Latinos Dual Audio (E)",Cinecanal FHD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35235.m3u8
+#EXTINF:-1 tvg-id="MX - A&E Mundo" tvg-name="A&E  SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/aye.png" group-title="Latinos Dual Audio (E)",A&E  SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E HQ (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/aye.png" group-title="Latinos Dual Audio (E)",A&E HQ (E)
+http://hidraplay.tv:80/live/APestana/123456/35237.m3u8
+#EXTINF:-1 tvg-id="MX - AXN" tvg-name="AXN SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/axn.png" group-title="Latinos Dual Audio (E)",AXN SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35238.m3u8
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/axn.png" group-title="Latinos Dual Audio (E)",AXN FHD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35239.m3u8
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="AMC SD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/amc.png" group-title="Latinos Dual Audio (E)",AMC SD (E)
+http://hidraplay.tv:80/live/APestana/123456/35240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/amc.png" group-title="Latinos Dual Audio (E)",AMC FHD (E)
+http://hidraplay.tv:80/live/APestana/123456/35241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Films & Arts FHD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/filmyarts.png" group-title="Latinos Dual Audio (E)",Films & Arts FHD (E)
+http://hidraplay.tv:80/live/APestana/123456/35242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax  SD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/cinemax.png" group-title="Latinos Dual Audio (E)",Cinemax  SD (E)
+http://hidraplay.tv:80/live/APestana/123456/35243.m3u8
+#EXTINF:-1 tvg-id="Canal TCM (Turner Classic Movies)" tvg-name="TCM SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/tcm.png" group-title="Latinos Dual Audio (E)",TCM SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHE FHD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/dhe.png" group-title="Latinos Dual Audio (E)",DHE FHD (E)
+http://hidraplay.tv:80/live/APestana/123456/35245.m3u8
+#EXTINF:-1 tvg-id="PARAMOUNT HD" tvg-name="Paramount Channel FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/paramount.png" group-title="Latinos Dual Audio (E)",Paramount Channel FHD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35246.m3u8
+#EXTINF:-1 tvg-id="SPACE PAN SUR HD" tvg-name="Space FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/space.png" group-title="Latinos Dual Audio (E)",Space FHD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35247.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.mx" tvg-name="Sundance Channel FHD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/sundance.png" group-title="Latinos Dual Audio (E)",Sundance Channel FHD (E)
+http://hidraplay.tv:80/live/APestana/123456/35248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TruTV HQ (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/trutv.png" group-title="Latinos Dual Audio (E)",TruTV HQ (E)
+http://hidraplay.tv:80/live/APestana/123456/35249.m3u8
+#EXTINF:-1 tvg-id="MX - Warner Channel" tvg-name="Warner Channel SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/warner.png" group-title="Latinos Dual Audio (E)",Warner Channel SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35250.m3u8
+#EXTINF:-1 tvg-id="MX - Warner Channel" tvg-name="Warner Channel HQ (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/warner.png" group-title="Latinos Dual Audio (E)",Warner Channel HQ (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35251.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/fx.png" group-title="Latinos Dual Audio (E)",FX SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35252.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/fx.png" group-title="Latinos Dual Audio (E)",FX FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXM FHD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/fxm.png" group-title="Latinos Dual Audio (E)",FXM FHD (E)
+http://hidraplay.tv:80/live/APestana/123456/35254.m3u8
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/golden.png" group-title="Latinos Dual Audio (E)",Golden SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35255.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge SD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/goldene.png" group-title="Latinos Dual Audio (E)",Golden Edge SD (E)
+http://hidraplay.tv:80/live/APestana/123456/35256.m3u8
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop SD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/hbopop.png" group-title="Latinos Dual Audio (E)",HBO Pop SD (E)
+http://hidraplay.tv:80/live/APestana/123456/35257.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/hboxtreme.png" group-title="Latinos Dual Audio (E)",HBO Xtreme FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35258.m3u8
+#EXTINF:-1 tvg-id="Canal Cine Sony" tvg-name="Sony SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/sonye.png" group-title="Latinos Dual Audio (E)",Sony SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35259.m3u8
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.de" tvg-name="Sony FHD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/sonye.png" group-title="Latinos Dual Audio (E)",Sony FHD (E)
+http://hidraplay.tv:80/live/APestana/123456/35260.m3u8
+#EXTINF:-1 tvg-id="MX - TNT" tvg-name="TNT SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/tnt.png" group-title="Latinos Dual Audio (E)",TNT SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35261.m3u8
+#EXTINF:-1 tvg-id="MX - TNT HD" tvg-name="TNT HQ (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/tnt.png" group-title="Latinos Dual Audio (E)",TNT HQ (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35262.m3u8
+#EXTINF:-1 tvg-id="Canal TNT Series" tvg-name="TNT Series SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/tntseries.png" group-title="Latinos Dual Audio (E)",TNT Series SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35263.m3u8
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="TNT Series HQ (ARG) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/tntseries.png" group-title="Latinos Dual Audio (E)",TNT Series HQ (ARG) (E)
+http://hidraplay.tv:80/live/APestana/123456/35264.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL HD" tvg-name="Universal Channel SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/universal.png" group-title="Latinos Dual Audio (E)",Universal Channel SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35265.m3u8
+#EXTINF:-1 tvg-id="MX - Universal Channel" tvg-name="Universal Channel FHD  (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/universal.png" group-title="Latinos Dual Audio (E)",Universal Channel FHD  (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35266.m3u8
+#EXTINF:-1 tvg-id="MX - Studio Universal" tvg-name="Studio Universal FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/universal.png" group-title="Latinos Dual Audio (E)",Studio Universal FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35267.m3u8
+#EXTINF:-1 tvg-id="FX HD" tvg-name="Fox SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/fox.png" group-title="Latinos Dual Audio (E)",Fox SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35268.m3u8
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="Fox FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/fox.png" group-title="Latinos Dual Audio (E)",Fox FHD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35269.m3u8
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Fox SD (ARG) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/fox.png" group-title="Latinos Dual Audio (E)",Fox SD (ARG) (E)
+http://hidraplay.tv:80/live/APestana/123456/35270.m3u8
+#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="Fox Life SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/foxlife.png" group-title="Latinos Dual Audio (E)",Fox Life SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35271.m3u8
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Fox Premium Cinema SD (MX.) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/foxcinema.png" group-title="Latinos Dual Audio (E)",Fox Premium Cinema SD (MX.) (E)
+http://hidraplay.tv:80/live/APestana/123456/35272.m3u8
+#EXTINF:-1 tvg-id="FOX CLASSICS" tvg-name="Fox Premium Classics SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/foxclassics.png" group-title="Latinos Dual Audio (E)",Fox Premium Classics SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35273.m3u8
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Fox Premium Action SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/foxaction.png" group-title="Latinos Dual Audio (E)",Fox Premium Action SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35274.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION HD" tvg-name="Fox Premium Action FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/foxaction.png" group-title="Latinos Dual Audio (E)",Fox Premium Action FHD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35275.m3u8
+#EXTINF:-1 tvg-id="FOX COMEDY" tvg-name="Fox Premium Comedy SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/foxcomedy.png" group-title="Latinos Dual Audio (E)",Fox Premium Comedy SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35276.m3u8
+#EXTINF:-1 tvg-id="FOX COMEDY" tvg-name="Fox Premium Comedy FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/foxcomedy.png" group-title="Latinos Dual Audio (E)",Fox Premium Comedy FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35277.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY HD" tvg-name="Fox Premium Family SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/foxfamily.png" group-title="Latinos Dual Audio (E)",Fox Premium Family SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35278.m3u8
+#EXTINF:-1 tvg-id="FOX FAMILY" tvg-name="Fox Premium Family FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/foxfamily.png" group-title="Latinos Dual Audio (E)",Fox Premium Family FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35279.m3u8
+#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="Fox Premium Movies SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/foxmovies.png" group-title="Latinos Dual Audio (E)",Fox Premium Movies SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35280.m3u8
+#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="Fox Premium Movies FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/foxmovies.png" group-title="Latinos Dual Audio (E)",Fox Premium Movies FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35281.m3u8
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Fox Premium Series SD (MX.) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/foxseries.png" group-title="Latinos Dual Audio (E)",Fox Premium Series SD (MX.) (E)
+http://hidraplay.tv:80/live/APestana/123456/35282.m3u8
+#EXTINF:-1 tvg-id="FoxPremiumMovies.pa" tvg-name="Fox Premium Series Oeste SD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/foxseries.png" group-title="Latinos Dual Audio (E)",Fox Premium Series Oeste SD (E)
+http://hidraplay.tv:80/live/APestana/123456/35283.m3u8
+#EXTINF:-1 tvg-id="FOX SERIES" tvg-name="Fox Premium Series FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/foxseries.png" group-title="Latinos Dual Audio (E)",Fox Premium Series FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35284.m3u8
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/hbo.png" group-title="Latinos Dual Audio (E)",HBO SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35285.m3u8
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/hbo.png" group-title="Latinos Dual Audio (E)",HBO FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35286.m3u8
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/hbo2.png" group-title="Latinos Dual Audio (E)",HBO 2 SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35287.m3u8
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/hbo2.png" group-title="Latinos Dual Audio (E)",HBO 2 FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35288.m3u8
+#EXTINF:-1 tvg-id="HBO PLUS HD" tvg-name="HBO Plus SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/hboplus.png" group-title="Latinos Dual Audio (E)",HBO Plus SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35289.m3u8
+#EXTINF:-1 tvg-id="HBO PLUS HD" tvg-name="HBO Plus FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/hboplus.png" group-title="Latinos Dual Audio (E)",HBO Plus FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35290.m3u8
+#EXTINF:-1 tvg-id="HBO FAMILY HD" tvg-name="HBO Family SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/hbofamily.png" group-title="Latinos Dual Audio (E)",HBO Family SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35291.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/hbofamily.png" group-title="Latinos Dual Audio (E)",HBO Family FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35292.m3u8
+#EXTINF:-1 tvg-id="HBO SIGNATURE HD NEW" tvg-name="HBO Signature SD (MX.) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/hbosignature.png" group-title="Latinos Dual Audio (E)",HBO Signature SD (MX.) (E)
+http://hidraplay.tv:80/live/APestana/123456/35293.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION" tvg-name="Discovery Civilization FHD (CO) (E)" tvg-logo="" group-title="Latinos Dual Audio (E)",Discovery Civilization FHD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/46561.m3u8
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY HD" tvg-name="Discovery ID FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/id.png" group-title="Latinos Dual Audio (E)",Discovery ID FHD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/46562.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="Discovery Science FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/discoverys.png" group-title="Latinos Dual Audio (E)",Discovery Science FHD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/46563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Estadísticas Coronavirus HQ" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",Estadísticas Coronavirus HQ
+http://hidraplay.tv:80/live/APestana/123456/35410.m3u8
